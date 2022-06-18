@@ -7,12 +7,13 @@
   font-family: "Poppins", sans-serif;
 }
 body {
-  background: #3263d686;
+  background: #59b0d9;
 }
 
 .header {
   padding-left: 20px;
   padding-top: 20px;
+  text-shadow: 20px salmon;
 }
 ::selection {
   color: #fff;
@@ -54,10 +55,10 @@ header,
   font-size: 40px;
   border-radius: 50%;
   justify-content: center;
-  border: 2px dashed #88abff;
+  border: 2px dashed #eb88ff;
 }
 .add-box p {
-  color: #88abff;
+  color: #3f70e1;
   font-weight: 500;
   margin-top: 20px;
 }
